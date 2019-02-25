@@ -1,0 +1,28 @@
+
+#imgAnimate{
+    border-radius:10px;
+    margin: 5px 5px 5px 5px;
+    background-image:url("images/grille.jpg");
+    color: silver;
+}
+.jumbotron {
+   
+    color: #a04000;
+    background-image: url("images/musclecar.jpg");
+    padding: 30px;
+    width:100%;
+    margin-top:10px;
+}
+.banner{
+    text-align: center;
+}
+#addGif{
+    border-radius:10px;
+    margin: 5px 5px 5px 5px;
+    background-image:url("images/grille.jpg");
+    color: silver;
+}
+
+body {
+    background-color:#7e3301;
+  }
